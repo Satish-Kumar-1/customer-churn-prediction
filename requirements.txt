@@ -6,3 +6,4 @@ seaborn
 statsmodels
 wordcloud
 feature_engine
+xgboost
